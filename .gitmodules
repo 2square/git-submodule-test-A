@@ -1,0 +1,3 @@
+[submodule "git-submodule-test-B"]
+	path = git-submodule-test-B
+	url = git@github.com:2square/git-submodule-test-B
